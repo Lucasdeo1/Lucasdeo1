@@ -1,7 +1,7 @@
 ## <h1 align="center">print("Hello world, Eu sou o Lucas!")👋 </h1>
 <h3 align="center">Desenvolvedor</h3>
 
-- 🌱Atualmente estou aprendendo: **frameworks,cursos ...**
+- 🌱Atualmente estou aprendendo: **frameworks, cursos ...**
 
 - 📫 Onde me encontrar **lucasdeodatosilva@hotmail.com**
 <p align="left">
