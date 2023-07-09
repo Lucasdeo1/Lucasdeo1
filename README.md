@@ -4,8 +4,6 @@
 - 🌱Atualmente estou aprendendo: **frameworks,cursos ...**
 
 - 📫 Onde me encontrar **lucasdeodatosilva@hotmail.com**
-
-<h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
 
